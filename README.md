@@ -1,5 +1,5 @@
 # Assignment-1
 New Assignment
 <br>
-Author-Fareed Gul
+(Author-Fareed Gul)
 
